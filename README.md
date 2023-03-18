@@ -1,4 +1,4 @@
-# clientServerAPI
+# Social Media Application
 
 React Web application created using PedroTech YouTube channel walkthrough Credit: https://youtu.be/Hl7diL7SFw8
 
